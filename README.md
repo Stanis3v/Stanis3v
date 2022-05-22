@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Stanislav
-- 👀 I’m interested in Mobile Apps
-- 🌱 I’m currently using Flutter
+- 🧑‍💻 I’m  Mobile App developer
+- 💻 I’m currently using Flutter
 - 📫 How to reach me https://www.linkedin.com/in/stanislav-velychko-153529230/
